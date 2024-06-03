@@ -5,4 +5,12 @@
 <div>
     <h1>Index</h1>
     <p>Bienvenidos al sitio web de NombreProyecto</p>
+    <p>@Url.Action("Index")</p>
+    @foreach(string ciudad in ViewBag.Paquetes.Keys)
+    {
+        <p>Aerolinea: @ViewBag.Paquetes[ciudad].Aereos</p>
+        <p>Hoteles: @ViewBag.Paquetes[ciudad].Hoteles</p>
+        <p>Excursiones: @ViewBag.Paquetes[ciudad].Excursiones</p>
+    }
 </div>
+
