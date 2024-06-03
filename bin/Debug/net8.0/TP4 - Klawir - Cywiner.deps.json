@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TP4 - Klawir - Cywiner/1.0.0": {
+        "runtime": {
+          "TP4 - Klawir - Cywiner.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP4 - Klawir - Cywiner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

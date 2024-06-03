@@ -1,0 +1,173 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\Bamboo-bote.jpeg",
+      "PackagePath": "staticwebassets\\Bamboo-bote.jpeg"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\Thumbs.db",
+      "PackagePath": "staticwebassets\\Thumbs.db"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\alpes suizos.jpg",
+      "PackagePath": "staticwebassets\\alpes suizos.jpg"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\american airlines.jpg",
+      "PackagePath": "staticwebassets\\american airlines.jpg"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\bernabeu-paseo.jpg",
+      "PackagePath": "staticwebassets\\bernabeu-paseo.jpg"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\bicis.jpg",
+      "PackagePath": "staticwebassets\\bicis.jpg"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\bosforo.jpeg",
+      "PackagePath": "staticwebassets\\bosforo.jpeg"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\cristo redentor.jpg",
+      "PackagePath": "staticwebassets\\cristo redentor.jpg"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\eilat royal beach.jpg",
+      "PackagePath": "staticwebassets\\eilat royal beach.jpg"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\eurostars-madrid-tower.jpg",
+      "PackagePath": "staticwebassets\\eurostars-madrid-tower.jpg"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\hilton copacabana.jpg",
+      "PackagePath": "staticwebassets\\hilton copacabana.jpg"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\intercontinental.jpg",
+      "PackagePath": "staticwebassets\\intercontinental.jpg"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\jamaica-hotel.jpg",
+      "PackagePath": "staticwebassets\\jamaica-hotel.jpg"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\latam.jpg",
+      "PackagePath": "staticwebassets\\latam.jpg"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\le narcisse.jpg",
+      "PackagePath": "staticwebassets\\le narcisse.jpg"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\louvre.jpg",
+      "PackagePath": "staticwebassets\\louvre.jpg"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\maldivas.jpg",
+      "PackagePath": "staticwebassets\\maldivas.jpg"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\nueva york.jpg",
+      "PackagePath": "staticwebassets\\nueva york.jpg"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\paseo.jpg",
+      "PackagePath": "staticwebassets\\paseo.jpg"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\playa maldivas.jpg",
+      "PackagePath": "staticwebassets\\playa maldivas.jpg"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\safari.jpg",
+      "PackagePath": "staticwebassets\\safari.jpg"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\ski.jpg",
+      "PackagePath": "staticwebassets\\ski.jpg"
+    },
+    {
+      "Id": "Z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\wwwroot\\the palace.jpg",
+      "PackagePath": "staticwebassets\\the palace.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TP4 - Klawir - Cywiner.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TP4 - Klawir - Cywiner.props",
+      "PackagePath": "build\\TP4 - Klawir - Cywiner.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TP4 - Klawir - Cywiner.props",
+      "PackagePath": "buildMultiTargeting\\TP4 - Klawir - Cywiner.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TP4 - Klawir - Cywiner.props",
+      "PackagePath": "buildTransitive\\TP4 - Klawir - Cywiner.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,29 @@
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\bin\Debug\net8.0\appsettings.Development.json
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\bin\Debug\net8.0\appsettings.json
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\bin\Debug\net8.0\TP4 - Klawir - Cywiner.staticwebassets.runtime.json
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\bin\Debug\net8.0\TP4 - Klawir - Cywiner.exe
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\bin\Debug\net8.0\TP4 - Klawir - Cywiner.deps.json
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\bin\Debug\net8.0\TP4 - Klawir - Cywiner.runtimeconfig.json
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\bin\Debug\net8.0\TP4 - Klawir - Cywiner.dll
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\bin\Debug\net8.0\TP4 - Klawir - Cywiner.pdb
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\obj\Debug\net8.0\TP4 - Klawir - Cywiner.GeneratedMSBuildEditorConfig.editorconfig
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\obj\Debug\net8.0\TP4 - Klawir - Cywiner.AssemblyInfoInputs.cache
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\obj\Debug\net8.0\TP4 - Klawir - Cywiner.AssemblyInfo.cs
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\obj\Debug\net8.0\TP4 - Klawir - Cywiner.csproj.CoreCompileInputs.cache
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\obj\Debug\net8.0\TP4 - Klawir - Cywiner.MvcApplicationPartsAssemblyInfo.cache
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\obj\Debug\net8.0\TP4 - Klawir - Cywiner.RazorAssemblyInfo.cache
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\obj\Debug\net8.0\TP4 - Klawir - Cywiner.RazorAssemblyInfo.cs
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\obj\Debug\net8.0\TP4 - Klawir - Cywiner.sourcelink.json
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\obj\Debug\net8.0\staticwebassets.build.json
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\obj\Debug\net8.0\staticwebassets.development.json
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\obj\Debug\net8.0\staticwebassets\msbuild.TP4 - Klawir - Cywiner.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\obj\Debug\net8.0\staticwebassets\msbuild.build.TP4 - Klawir - Cywiner.props
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TP4 - Klawir - Cywiner.props
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TP4 - Klawir - Cywiner.props
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\obj\Debug\net8.0\scopedcss\bundle\TP4 - Klawir - Cywiner.styles.css
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\obj\Debug\net8.0\TP4 - Klawir - Cywiner.dll
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\obj\Debug\net8.0\refint\TP4 - Klawir - Cywiner.dll
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\obj\Debug\net8.0\TP4 - Klawir - Cywiner.pdb
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\obj\Debug\net8.0\TP4 - Klawir - Cywiner.genruntimeconfig.cache
+Z:\ORT\4ID\Prog\TP4 - Klawir - Cywiner\obj\Debug\net8.0\ref\TP4 - Klawir - Cywiner.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TP4 - Klawir - Cywiner.props" />
+</Project>
