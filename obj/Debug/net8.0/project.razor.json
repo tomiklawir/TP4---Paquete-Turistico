@@ -19349,6 +19349,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\Views\\Home\\SelectPaquete.cshtml",
+      "TargetPath": "Views\\Home\\SelectPaquete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "z:\\ORT\\4ID\\Prog\\TP4 - Klawir - Cywiner\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
