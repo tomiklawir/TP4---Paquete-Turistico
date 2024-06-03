@@ -26,4 +26,21 @@ public class HomeController : Controller
         ViewBag.Excursiones = ORTWorld.ListaExcursiones;
         return View();
     }
+
+    public IActionResult GuardarPaquete(int Destinos, int Aereos, int Hoteles, int Excursiones, List<string> ListaDestinos, List<string> ListaAereos, List<string> ListaHoteles, List<string> ListaExcursiones){
+        if(Destinos >= 0 && Destinos <= 10 && Aereos >= 0 && Aereos <= 10 && Hoteles >= 0 && Hoteles <= 10 && Excursiones >= 0 && Excursiones <= 10)
+        {
+            string DestinoGuardar = ListaDestinos[Destinos];
+            string AereoGuardar = ListaAereos[Aereos];
+            string HotelGuardar = ListaHoteles[Hoteles];
+            string ExcursionesGuardar = ListaExcursiones[Excursiones];
+            Paquete PaqueteNuevo = new Paquete(AereoGuardar, HotelGuardar, ExcursionesGuardar);
+            ORTWorld.IngresarPaquete(DestinoGuardar, PaqueteNuevo);
+            return View();
+        }
+        else{
+            ViewBag.Error = "Error";
+            return View();
+        }
+    }
 }
